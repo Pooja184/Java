@@ -10,10 +10,14 @@ public class dataTypes{
         char ch='a'; //size= 2byte 
         System.out.println(ch);
         boolean var=false; //size= 1byte
-        float price=10.90; //size= 4byte
+        float price=10.90F; //size= 4byte
         int num=10; //size= 4byte
         long num1=100; //size= 8byte
         double num2=4979; //size= 8byte
         short num3=35; //size= 2byte
+
+        int number1=10;
+        int number2=20;
+        System.out.println(number1+number2);
     }
 }
