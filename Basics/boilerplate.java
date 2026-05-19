@@ -6,3 +6,5 @@ public class boilerplate {
         System.out.print("Print output on the same line. ");
     }
 }   
+
+//we can only have one public class in single file
