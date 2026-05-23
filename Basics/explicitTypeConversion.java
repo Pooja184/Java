@@ -1,6 +1,6 @@
 // File name: ExplicitConversionExample.java
 
-//Type casting in Java means manually converting one data type into another data type.
+//Type casting also known as type narrowing or explicit conversion in Java means manually converting one data type into another data type.
 
 //Java does not do this automatically when converting a bigger type into a smaller type. You must manually convert it using casting.
 public class explicitTypeConversion {
