@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class parameters{
-    public static int sumOFTwoNum(int num1,int num2) {
+    public static int sumOFTwoNum(int num1,int num2) {//This is parameters
         int sum=num1+num2;
         return sum;
     }
@@ -10,6 +10,6 @@ public class parameters{
         Scanner sc=new Scanner(System.in);
         int num1=sc.nextInt();
         int num2= sc.nextInt();
-        System.out.println(sumOFTwoNum(num1,num2));
+        System.out.println(sumOFTwoNum(num1,num2));//This is argumemts
     }
 }
